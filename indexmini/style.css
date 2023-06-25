@@ -1,0 +1,83 @@
+*{
+   
+    box-sizing: border-box;
+    background-color: white;
+    scroll-behavior: smooth;
+}
+header{
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 90px;
+}
+ .fork{
+    margin-inline-start: 30px;
+ }
+#logo{
+margin-inline-start: -290px;    
+font-family:font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Tourney', cursive;;
+}
+
+.best{
+    margin-block-start: 50px;
+    margin-left: -400px;
+    color: grey;
+}
+.social-icon{
+    margin-left: 290px;
+}
+.lin{
+    margin: 60px;
+}
+#prin{
+    margin-left:-90px;
+}
+.choco{
+    font-size:larger;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    margin-inline-start: 150px;
+    margin-top: -60px;
+
+}
+.note{
+    color: goldenrod;
+margin-inline-start: 150px;
+margin-top: ;
+}
+.img{
+margin: 150px;
+margin-bottom: -10px;
+margin-top: 30px;}
+.lor{
+    color: goldenrod;
+    width: 900px;
+    margin: 150px;
+    margin-top: -1px;
+}
+.check{
+    background-image: url(bg.jpg);
+margin: 150px;
+margin-top: -130px;
+}
+.line{
+    margin: 105px;
+    margin-top: -80px;
+   
+}
+
+.nam{
+    width: 350px;
+    margin: 130px;
+    margin-top: -90px;
+}
+.conc{
+    color:goldenrod;
+    text-align: center;
+}
